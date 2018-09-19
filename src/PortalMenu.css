@@ -1,0 +1,12 @@
+.PortalMenu {
+  display: flex;
+  flex-direction: column;
+}
+
+.PortalMenu .MainMenu {
+  flex: 1 1 0%;
+}
+
+.PortalMenu .MenuHeader {
+  font-size: 1.3em !important;
+}
