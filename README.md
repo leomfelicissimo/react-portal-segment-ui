@@ -1,7 +1,7 @@
-## Estrutura Base de Portal React/Redux/Router e Segment UI
+## Estrutura Base de Portal React/Redux/Router e Semantic UI
 
 ### Descrição
-Este é um boilerplate para uma estrutura (ainda simples) de portal criado em React com Redux, React Router e o framework de componentes gráficos Segment UI.
+Este é um boilerplate para uma estrutura (ainda simples) de portal criado em React com Redux, React Router e o framework de componentes gráficos Semantic UI.
 
 ### Para executar:
 * git clone no repositório;
